@@ -24,7 +24,7 @@ Y = '\033[1;34m' #ا
 J = "\033[1;97m" #ابيض
 def va():
 	va = f'''   
-	  \033[2;32m             NitroPlus Tool\n 
+	  \033[2;32m             NitroPlus Tools\n 
 	
 {B}	Dev	: HakuXr   Canal : @HakuExe
                                          
